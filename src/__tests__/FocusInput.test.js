@@ -1,5 +1,5 @@
 import React from 'react';
-import FocusInput from '../FocusInput';
+import FocusInput from '../components/FocusInput';
 import { render, fireEvent, cleanup } from '@testing-library/react';
 
 afterEach(cleanup);
